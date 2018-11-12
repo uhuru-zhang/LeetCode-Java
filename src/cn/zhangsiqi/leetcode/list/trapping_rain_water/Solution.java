@@ -2,6 +2,7 @@ package cn.zhangsiqi.leetcode.list.trapping_rain_water;
 
 public class Solution {
     /**
+     * https://leetcode-cn.com/problems/trapping-rain-water/description/
      * 首先找到最高的位置，之后从数组的两侧向最高位置遍历。
      */
     public int trap(int[] height) {
