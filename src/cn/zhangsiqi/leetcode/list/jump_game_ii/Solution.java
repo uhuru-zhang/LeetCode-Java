@@ -1,7 +1,5 @@
 package cn.zhangsiqi.leetcode.list.jump_game_ii;
 
-import java.util.Arrays;
-
 public class Solution {
     public int jump(int[] nums) {
         if (nums.length <= 1) {
